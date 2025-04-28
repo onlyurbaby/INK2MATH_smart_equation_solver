@@ -3,3 +3,4 @@ This project is based on solving maths equations and providing you with proper s
 Applications:
 1. Used for students and teachers in education field
 2. Used by researchers to solve complex problems.
+3. Also used by blind aided students with help of voice recognition system in it.
