@@ -4,4 +4,4 @@ We have also used CROHME Dataset and MINIST Dataset for the Handwritten Maths Eq
 Applications:
 1. Used for students and teachers in education field
 2. Used by researchers to solve complex problems.
-3. Also used by blind aided students with help of voice recognition system in it.
+3. Also used by blind-Aided students with help of voice recognition system in it.
